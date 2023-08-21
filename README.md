@@ -7,3 +7,10 @@
 | 3 | Сборный проект 1. Анализ игровой индустрии  | Выявление паттернов успешной компьютерной игры. Выявленные паттерны помогут определить успешность будущих игр и спланировать ее продвижение. |
 
 ## Мой цифровой диплом
+
+![Как выглядит программа](https://github.com/TokserDi/data_analytics_projects/blob/main/photos/2.png?raw=true)
+
+![Как выглядит сертификат](https://github.com/TokserDi/data_analytics_projects/blob/main/photos/1.png?raw=true))
+
+
+
